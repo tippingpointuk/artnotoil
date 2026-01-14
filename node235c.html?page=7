@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="no-js adaptivetheme">
+  <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    
+    <meta charset="utf-8" />
+<link rel="canonical" href="node.html" />
+<link rel="shortlink" href="node.html" />
+<meta name="generator" content="Drupal 9 (http://drupal.org)" />
+<meta name="description" content="A coalition of organisations seeking an end to oil-industry sponsorship of the arts. The site contains articles, details of coalition member groups, details of what you can do and what institutions are involved and finally hundreds of artworks submitted by site users protesting oil industry sponsorship." />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="" href="rss.xml" />
+
+    <link rel="dns-prefetch" href="http://cdnjs.cloudflare.com/"><title>| Art Not Oil Coalition</title>
+    <link rel="stylesheet" media="all" href="sites/default/files/css/css_KhjivKWW0hFeMcOli9H7Gwqy-rDy3wLWdC9MVoTGPG8.css" />
+<link rel="stylesheet" media="all" href="sites/default/files/css/css_0TcLgxWNNmPmnW_P5TV1wVyciVrPdp30znEXMs5xRVA.css" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css?family=Kanit:ital,wght@0,900,800,600;1&amp;amp;family=Open+Sans:ital@0;1" />
+<link rel="stylesheet" media="all" href="sites/default/files/css/css_YN6OosP3OQIwz7HXK5MI0QTs2zuq1TbPGUxDD0zK-bA.css" />
+
+    <script src="core/assets/vendor/modernizr/modernizr.minad3d.js?v=3.11.7"></script>
+<script src="core/misc/modernizr-additional-testsad3d.js?v=3.11.7"></script>
+
+  </head><body  class="layout-type--page-layout user-logged-out path-not-frontpage path-node path-query-page7 theme-name--ano">
+        <a href="#block-ano-content" class="visually-hidden focusable skip-link">Skip to main content</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page js-layout">
+  <div data-at-row="leaderboard" class="l-leaderboard l-row">
+  
+  <div class="l-pr page__row pr-leaderboard" id="leaderboard">
+    <div class="l-rw regions container pr-leaderboard__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="4" class="l-r region pr-leaderboard__leaderboard" id="rid-leaderboard"><div id="block-socialmedialinks" class="block-social-media-links l-bl block block-config-provider--social-media-links block-plugin-id--social-media-links-block">
+  <div class="block__inner">
+
+    <div class="block__content"><ul class="platforms inline is-horizontal">
+      <li class="platform">
+      <a href="https://www.facebook.com/ArtNotOil"  class="platform__link">
+        <img src="libraries/elegantthemes/PNG/facebook.png" alt="" typeof="foaf:Image" />
+
+              </a>
+    </li>
+      <li class="platform">
+      <a href="https://www.twitter.com/ArtNotOil/"  class="platform__link">
+        <img src="libraries/elegantthemes/PNG/twitter.png" alt="" typeof="foaf:Image" />
+
+              </a>
+    </li>
+  </ul>
+</div></div>
+</div>
+<div id="block-emailaddress" class="l-bl block block-config-provider--block-content block-plugin-id--block-content-4db57622-0ff8-4a47-aa37-d206ee16e08f block--type-basic block--view-mode-full">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><p><a href="mailto:info@artnotoil.org.uk" title="email Art Not Oil">info@artnotoil.org.uk</a></p>
+</div></div>
+</div>
+</div></div>
+</div>
+<nav role="navigation" aria-labelledby="block-ano-account-menu-menu" id="block-ano-account-menu" class="l-bl block block-menu block-config-provider--system block-plugin-id--system-menu-block-account">
+  <div class="block__inner block-menu__inner">
+
+    
+    <h2 class="visually-hidden block__title block-menu__title" id="block-ano-account-menu-menu"><span>User menu</span></h2>
+    <div class="block__content block-menu__content">
+<ul class="menu odd menu-level-1 menu-name--account">    
+                
+    
+        <li class="menu__item menu__item-title--contact" id="menu-name--account__contact">
+
+        <span class="menu__link--wrapper">
+            <a href="contact.html" class="menu__link" data-drupal-link-system-path="contact">Contact</a>
+        </span>
+
+        
+        </li></ul>
+
+
+</div></div>
+</nav>
+<div class="search-block-form submit-is-visible l-bl block block-search block-config-provider--search block-plugin-id--search-form-block" data-drupal-selector="search-block-form" id="block-ano-search" role="search" aria-labelledby="block-ano-search-menu">
+  <div class="block__inner block-search__inner">
+
+    
+      <h2 class="visually-hidden block__title block-search__title" id="block-ano-search-menu"><span>Search</span></h2>
+    <div class="block__content block-search__content"><form action="https://www.artnotoil.org.uk/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-block-form__form">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions element-container-wrapper js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" />
+</div>
+
+</form>
+</div></div>
+</div>
+</div>
+    </div>
+  </div>
+  
+</div>
+<div data-at-row="header" class="l-header l-row">
+  
+  <header class="l-pr page__row pr-header" role="banner" id="masthead">
+    <div class="l-rw regions container pr-header__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="2" class="l-r region pr-header__header-first" id="rid-header-first"><div id="block-sitebranding" class="l-bl block block-branding block-config-provider--system block-plugin-id--system-branding-block has-logo">
+  <div class="block__inner block-branding__inner">
+
+    <div class="block__content block-branding__content site-branding"><a href="index.html" title="Home" rel="home" class="site-branding__logo-link"><img src="sites/default/files/Logo_0.png" alt="Home" class="site-branding__logo-img" /></a></div></div>
+</div>
+<div id="block-sitetitle" class="l-bl block block-config-provider--block-content block-plugin-id--block-content-3344bf5a-286b-45a7-98ff-86f3922200b7 block--type-basic block--view-mode-full">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><h2>Art Not Oil <span>Coalition</span></h2>
+
+<p>Ending oil industry sponsorship of the arts</p>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+    </div>
+  </header>
+  
+</div>
+<div data-at-row="navbar" class="l-navbar l-row">
+  
+  <div class="l-pr page__row pr-navbar" id="navbar">
+    <div class="l-rw regions container pr-navbar__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="1" class="l-r region pr-navbar__navbar" id="rid-navbar"><svg style="display:none;">
+    <symbol id="rm-toggle__icon--open" viewBox="0 0 1792 1792" preserveAspectRatio="xMinYMid meet">
+    <path class="rm-toggle__icon__path" d="M1664 1344v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45z"/>
+  </symbol>
+    <symbol id="rm-toggle__icon--close" viewBox="0 0 1792 1792" preserveAspectRatio="xMinYMid meet">
+    <path class="rm-toggle__icon__path" d="M1490 1322q0 40-28 68l-136 136q-28 28-68 28t-68-28l-294-294-294 294q-28 28-68 28t-68-28l-136-136q-28-28-28-68t28-68l294-294-294-294q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 294 294-294q28-28 68-28t68 28l136 136q28 28 28 68t-28 68l-294 294 294 294q28 28 28 68z"/>
+  </symbol>
+</svg>
+<nav aria-labelledby="block-mainmenu-menu" id="block-mainmenu" class="l-bl rm-block rm-config-provider--system rm-plugin-id--system-menu-block-main js-hide">
+  <div class="rm-block__inner">
+    <div class="rm-toggle">
+      <button class="rm-toggle__link un-button" role='button' aria-expanded="false">
+                <svg class="rm-toggle__icon">
+          <use id="rm-toggle__icon--use" xlink:href="#rm-toggle__icon--open"></use>
+        </svg>
+                <span class="rm-toggle__label" id="block-mainmenu-menu">Main menu</span>
+      </button>
+    </div><div class="rm-block__content" id="rm-content">
+        <span id="rm-accordion-trigger" class="hidden">
+            <button class="rm-accordion-trigger un-button" role='button' aria-expanded="false">
+              <svg class="rm-accordion-trigger__icon" viewBox="0 0 1792 1792" preserveAspectRatio="xMinYMid meet"><path d="M1600 736v192q0 40-28 68t-68 28h-416v416q0 40-28 68t-68 28h-192q-40 0-68-28t-28-68v-416h-416q-40 0-68-28t-28-68v-192q0-40 28-68t68-28h416v-416q0-40 28-68t68-28h192q40 0 68 28t28 68v416h416q40 0 68 28t28 68z"/></svg>
+                            <span class="visually-hidden">Toggle sub-menu</span>
+            </button>
+          </span>
+<ul class="menu odd menu-level-1 menu-name--main">    
+                
+    
+        <li class="menu__item menu__item-title--home" id="menu-name--main__home">
+
+        <span class="menu__link--wrapper">
+            <a href="index.html" class="menu__link" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+        </span>
+
+        
+        </li>    
+                
+    
+        <li class="menu__item menu__item-title--about" id="menu-name--main__about">
+
+        <span class="menu__link--wrapper">
+            <a href="about-us.html" title="About the Art Not Oil Coalition" class="menu__link" data-drupal-link-system-path="node/5">About</a>
+        </span>
+
+        
+        </li>    
+                
+    
+        <li class="menu__item menu__item--collapsed menu__item-title--member-groups" id="menu-name--main__member-groups">
+
+        <span class="menu__link--wrapper">
+            <a href="member-groups.html" title="List of coalition member groups" class="menu__link" data-drupal-link-system-path="node/14">Member Groups</a>
+        </span>
+
+        
+        </li>    
+                
+    
+        <li class="menu__item menu__item-title--what-you-can-do" id="menu-name--main__what-you-can-do">
+
+        <span class="menu__link--wrapper">
+            <a href="what-you-can-do.html" title="A list of actions to take, people to contact etc" class="menu__link" data-drupal-link-system-path="node/2">What you can do</a>
+        </span>
+
+        
+        </li>    
+                
+    
+        <li class="menu__item menu__item-title--institutions" id="menu-name--main__institutions">
+
+        <span class="menu__link--wrapper">
+            <a href="institutions.html" title="Information about the art and culture institutions sponsored by the oil industry" class="menu__link" data-drupal-link-system-path="node/3663">Institutions</a>
+        </span>
+
+        
+        </li>    
+                
+    
+        <li class="menu__item menu__item--collapsed menu__item-title--artwork" id="menu-name--main__artwork">
+
+        <span class="menu__link--wrapper">
+            <a href="artwork.html" title="Collection of artworks submitted by site users" class="menu__link" data-drupal-link-system-path="node/3">Artwork</a>
+        </span>
+
+        
+        </li></ul>
+
+
+</div></div>
+</nav>
+</div>
+    </div>
+  </div>
+  
+</div>
+<div data-at-row="highlighted" class="l-highlighted l-row">
+  
+  <div class="l-pr page__row pr-highlighted" id="highlighted">
+    <div class="l-rw regions container pr-highlighted__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="1" class="l-r region pr-highlighted__highlighted" id="rid-highlighted"><div class="l-bl block--messages" id="system-messages-block" data-drupal-messages><div data-drupal-messages-fallback class="hidden"></div></div></div>
+    </div>
+  </div>
+  
+</div>
+<div data-at-row="main" class="l-main l-row">
+  
+  <div class="l-pr page__row pr-main regions-multiple" id="main-content">
+    <div class="l-rw regions container pr-main__rw arc--2 hr--1-2" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="6" class="l-r region pr-main__content" id="rid-content"><div role="navigation" aria-labelledby="block-ano-breadcrumbs-menu" id="block-ano-breadcrumbs" class="l-bl block block-breadcrumbs block-config-provider--system block-plugin-id--system-breadcrumb-block">
+  <div class="block__inner">
+
+    
+    <h2 class="visually-hidden block__title block-breadcrumbs__title" id="block-ano-breadcrumbs-menu"><span>Breadcrumbs</span></h2>
+    
+      <div class="breadcrumb">
+    <nav class="is-responsive is-horizontal" data-at-responsive-list>
+      <div class="is-responsive__list">
+        <h3 class="visually-hidden breadcrumb__title">You are here:</h3>
+        <ol class="breadcrumb__list"><li class="breadcrumb__list-item is-responsive__item"><a href="index.html" class="breadcrumb__link">Home</a></li></ol>
+      </div>
+    </nav>
+  </div></div>
+</div>
+<div id="block-ano-page-title" class="l-bl block block-config-provider--core block-plugin-id--page-title-block">
+  <div class="block__inner">
+
+    <div class="block__content">
+  <h1 class="page__title"></h1>
+
+</div></div>
+</div>
+<main id="block-ano-content" class="l-bl block block-main-content" role="main">
+  
+  <div class="views-element-container element-container-wrapper"><div class="view view-frontpage view-id-frontpage view-display-id-page_1 js-view-dom-id-eb071bcb7bff37a0bc62805d44c42bd834ec012697cb9c8c86332668e21c77c0">
+  
+    
+      
+      <div class="view-content view-rows">
+          <div class="views-row">
+    <article data-history-node-id="3807" role="article" about="/blog/shell-and-londons-south-bank-part-company" class="node node--id-3807 node--type-blog-entry node--promoted node--view-mode-teaser">
+  <div class="node__container">
+
+    <header class="node__header--has-meta node__header"><h2 class="node__title"><a href="blog/shell-and-londons-south-bank-part-company.html" class="node__title-link" rel="bookmark"><span class="field field-name-title field-formatter-string field-type-string field-label-hidden">Shell and London&#039;s South Bank part company</span>
+</a></h2><div class="node__meta"><div class="node__submitted">
+             <span class="node__author"><span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="">Art Not Oil</span></span>
+</span>
+             <span class="node__pubdate"><span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">Mon, 16/03/2020 - 1:04pm</span>
+</span>
+          </div></div></header>
+
+    <div class="node__content"><div class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><p>From <a href="https://www.facebook.com/ArtNotOil/">https://www.facebook.com/ArtNotOil/</a> 'Shell’s last two major corporate partnerships with arts organisations come to an end! Its deals with the South Bank Centre and the British Film Institute cost the equivalent of loose change to Shell, so either a) the arts institutions don’t want to be associated with an oil company any more, b) Shell has decided the bad publicity from protests now outweighs any good publicity the deal might get, or c) both of the above.</p></div></div>
+</div>
+<div class="sharethis-wrapper">
+      <span st_url="https://www.artnotoil.org.uk/blog/shell-and-londons-south-bank-part-company" st_title="Shell and London&#039;s South Bank part company" class="st_facebook_large" displayText="facebook"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/shell-and-londons-south-bank-part-company" st_title="Shell and London&amp;#039;s South Bank part company" class="st_twitter_large" displayText="twitter"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/shell-and-londons-south-bank-part-company" st_title="Shell and London&amp;#039;s South Bank part company" class="st_sharethis_large" displayText="sharethis"></span>
+
+  </div>
+<div class="node__links"><ul class="links inline"><li class="node-readmore"><span class="node-readmore__link-wrapper"><a href="blog/shell-and-londons-south-bank-part-company.html" rel="tag" title="Shell and London&#039;s South Bank part company" class="node-readmore__link" hreflang="und">Read more<span class="visually-hidden"> about Shell and London&#039;s South Bank part company</span></a></span></li></ul></div></div></div>
+</article>
+
+  </div>
+    <div class="views-row">
+    <article data-history-node-id="3805" role="article" about="/blog/petition-stop-bp-portrait-exhibition-ulster-museum" class="node node--id-3805 node--type-blog-entry node--promoted node--view-mode-teaser">
+  <div class="node__container">
+
+    <header class="node__header--has-meta node__header"><h2 class="node__title"><a href="blog/petition-stop-bp-portrait-exhibition-ulster-museum.html" class="node__title-link" rel="bookmark"><span class="field field-name-title field-formatter-string field-type-string field-label-hidden">Petition: &#039;Stop the BP Portrait exhibition at Ulster Museum&#039;</span>
+</a></h2><div class="node__meta"><div class="node__submitted">
+             <span class="node__author"><span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="">Art Not Oil</span></span>
+</span>
+             <span class="node__pubdate"><span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">Mon, 16/03/2020 - 12:52pm</span>
+</span>
+          </div></div></header>
+
+    <div class="node__content"><div class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item">Sign this if you can:
+<a href="https://my.uplift.ie/petitions/stop-the-bp-portrait-exhibition-at-ulster-museum">https://my.uplift.ie/petitions/stop-the-bp-portrait-exhibition-at-ulste…</a></div></div>
+</div>
+<div class="sharethis-wrapper">
+      <span st_url="https://www.artnotoil.org.uk/blog/petition-stop-bp-portrait-exhibition-ulster-museum" st_title="Petition: &#039;Stop the BP Portrait exhibition at Ulster Museum&#039;" class="st_facebook_large" displayText="facebook"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/petition-stop-bp-portrait-exhibition-ulster-museum" st_title="Petition: &amp;#039;Stop the BP Portrait exhibition at Ulster Museum&amp;#039;" class="st_twitter_large" displayText="twitter"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/petition-stop-bp-portrait-exhibition-ulster-museum" st_title="Petition: &amp;#039;Stop the BP Portrait exhibition at Ulster Museum&amp;#039;" class="st_sharethis_large" displayText="sharethis"></span>
+
+  </div>
+<div class="node__links"><ul class="links inline"><li class="node-readmore"><span class="node-readmore__link-wrapper"><a href="blog/petition-stop-bp-portrait-exhibition-ulster-museum.html" rel="tag" title="Petition: &#039;Stop the BP Portrait exhibition at Ulster Museum&#039;" class="node-readmore__link" hreflang="und">Read more<span class="visually-hidden"> about Petition: &#039;Stop the BP Portrait exhibition at Ulster Museum&#039;</span></a></span></li></ul></div></div></div>
+</article>
+
+  </div>
+    <div class="views-row">
+    <article data-history-node-id="3804" role="article" about="/blog/we-just-occupied-british-museum-51-hours-against-bp-sponsorship-and-colonialism" class="node node--id-3804 node--type-blog-entry node--promoted node--view-mode-teaser">
+  <div class="node__container">
+
+    <header class="node__header--has-meta node__header"><h2 class="node__title"><a href="blog/we-just-occupied-british-museum-51-hours-against-bp-sponsorship-and-colonialism.html" class="node__title-link" rel="bookmark"><span class="field field-name-title field-formatter-string field-type-string field-label-hidden">&#039;We just occupied the British Museum for 51 hours, against BP sponsorship and colonialism&#039;</span>
+</a></h2><div class="node__meta"><div class="node__submitted">
+             <span class="node__author"><span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="">Art Not Oil</span></span>
+</span>
+             <span class="node__pubdate"><span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">Sun, 09/02/2020 - 9:27pm</span>
+</span>
+          </div></div></header>
+
+    <div class="node__content"><div class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item">
+
+More from our fantastic friends BP or not BP:
+<a href="https://bp-or-not-bp.org/news/">https://bp-or-not-bp.org/news/</a>
+
+'This morning at 10.30am, 40 activists processed out of the British Museum after successfully occupying its iconic Great Court for 20 hours and creating a “durational artwork” overnight, in a challenge to the museum’s BP sponsorship deal.</div></div>
+</div>
+<div class="sharethis-wrapper">
+      <span st_url="https://www.artnotoil.org.uk/blog/we-just-occupied-british-museum-51-hours-against-bp-sponsorship-and-colonialism" st_title="&#039;We just occupied the British Museum for 51 hours, against BP sponsorship and colonialism&#039;" class="st_facebook_large" displayText="facebook"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/we-just-occupied-british-museum-51-hours-against-bp-sponsorship-and-colonialism" st_title="&amp;#039;We just occupied the British Museum for 51 hours, against BP sponsorship and colonialism&amp;#039;" class="st_twitter_large" displayText="twitter"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/we-just-occupied-british-museum-51-hours-against-bp-sponsorship-and-colonialism" st_title="&amp;#039;We just occupied the British Museum for 51 hours, against BP sponsorship and colonialism&amp;#039;" class="st_sharethis_large" displayText="sharethis"></span>
+
+  </div>
+<div class="node__links"><ul class="links inline"><li class="node-readmore"><span class="node-readmore__link-wrapper"><a href="blog/we-just-occupied-british-museum-51-hours-against-bp-sponsorship-and-colonialism.html" rel="tag" title="&#039;We just occupied the British Museum for 51 hours, against BP sponsorship and colonialism&#039;" class="node-readmore__link" hreflang="und">Read more<span class="visually-hidden"> about &#039;We just occupied the British Museum for 51 hours, against BP sponsorship and colonialism&#039;</span></a></span></li></ul></div></div></div>
+</article>
+
+  </div>
+    <div class="views-row">
+    <article data-history-node-id="3803" role="article" about="/blog/we%E2%80%99ve-snuck-huge-trojan-horse-british-museum" class="node node--id-3803 node--type-blog-entry node--promoted node--view-mode-teaser">
+  <div class="node__container">
+
+    <header class="node__header--has-meta node__header"><h2 class="node__title"><a href="blog/we%e2%80%99ve-snuck-huge-trojan-horse-british-museum.html" class="node__title-link" rel="bookmark"><span class="field field-name-title field-formatter-string field-type-string field-label-hidden">&#039;We’ve snuck a huge Trojan Horse into the British Museum!&#039;</span>
+</a></h2><div class="node__meta"><div class="node__submitted">
+             <span class="node__author"><span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="">Art Not Oil</span></span>
+</span>
+             <span class="node__pubdate"><span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">Fri, 07/02/2020 - 8:36pm</span>
+</span>
+          </div></div></header>
+
+    <div class="node__content"><div class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item">
+
+From our friends at BP or not BP:
+<a href="https://bp-or-not-bp.org/2020/02/07/breaking-weve-snuck-a-huge-trojan-horse-into-the-british-museum/">https://bp-or-not-bp.org/2020/02/07/breaking-weve-snuck-a-huge-trojan-h…</a>
+
+A huge Trojan Horse, emblazoned with the logo of British Museum sponsor BP, was snuck into the museum’s courtyard at 7:30 this morning.</div></div>
+</div>
+<div class="sharethis-wrapper">
+      <span st_url="https://www.artnotoil.org.uk/blog/we%E2%80%99ve-snuck-huge-trojan-horse-british-museum" st_title="&#039;We’ve snuck a huge Trojan Horse into the British Museum!&#039;" class="st_facebook_large" displayText="facebook"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/we%E2%80%99ve-snuck-huge-trojan-horse-british-museum" st_title="&amp;#039;We’ve snuck a huge Trojan Horse into the British Museum!&amp;#039;" class="st_twitter_large" displayText="twitter"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/we%E2%80%99ve-snuck-huge-trojan-horse-british-museum" st_title="&amp;#039;We’ve snuck a huge Trojan Horse into the British Museum!&amp;#039;" class="st_sharethis_large" displayText="sharethis"></span>
+
+  </div>
+<div class="node__links"><ul class="links inline"><li class="node-readmore"><span class="node-readmore__link-wrapper"><a href="blog/we%e2%80%99ve-snuck-huge-trojan-horse-british-museum.html" rel="tag" title="&#039;We’ve snuck a huge Trojan Horse into the British Museum!&#039;" class="node-readmore__link" hreflang="und">Read more<span class="visually-hidden"> about &#039;We’ve snuck a huge Trojan Horse into the British Museum!&#039;</span></a></span></li></ul></div></div></div>
+</article>
+
+  </div>
+    <div class="views-row">
+    <article data-history-node-id="3802" role="article" about="/blog/bushfire-brandalism" class="node node--id-3802 node--type-blog-entry node--promoted node--view-mode-teaser">
+  <div class="node__container">
+
+    <header class="node__header--has-meta node__header"><h2 class="node__title"><a href="blog/bushfire-brandalism.html" class="node__title-link" rel="bookmark"><span class="field field-name-title field-formatter-string field-type-string field-label-hidden">Bushfire Brandalism</span>
+</a></h2><div class="node__meta"><div class="node__submitted">
+             <span class="node__author"><span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="">Art Not Oil</span></span>
+</span>
+             <span class="node__pubdate"><span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">Tue, 04/02/2020 - 4:10pm</span>
+</span>
+          </div></div></header>
+
+    <div class="node__content"><div class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><p></p>
+
+<p><a href="https://vimeo.com/388792422">#BushfireBrandalism</a> from <a href="https://vimeo.com/user108148253">Partier Bresson</a> on <a href="https://vimeo.com/">Vimeo</a>.</p></div></div>
+</div>
+<div class="sharethis-wrapper">
+      <span st_url="https://www.artnotoil.org.uk/blog/bushfire-brandalism" st_title="Bushfire Brandalism" class="st_facebook_large" displayText="facebook"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/bushfire-brandalism" st_title="Bushfire Brandalism" class="st_twitter_large" displayText="twitter"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/bushfire-brandalism" st_title="Bushfire Brandalism" class="st_sharethis_large" displayText="sharethis"></span>
+
+  </div>
+<div class="node__links"><ul class="links inline"><li class="node-readmore"><span class="node-readmore__link-wrapper"><a href="blog/bushfire-brandalism.html" rel="tag" title="Bushfire Brandalism" class="node-readmore__link" hreflang="und">Read more<span class="visually-hidden"> about Bushfire Brandalism</span></a></span></li></ul></div></div></div>
+</article>
+
+  </div>
+    <div class="views-row">
+    <article data-history-node-id="3801" role="article" about="/blog/mass-action-vs-climate-crisis-colonialism-british-museum-8220" class="node node--id-3801 node--type-blog-entry node--promoted node--view-mode-teaser">
+  <div class="node__container">
+
+    <header class="node__header--has-meta node__header"><h2 class="node__title"><a href="blog/mass-action-vs-climate-crisis-colonialism-british-museum-8220.html" class="node__title-link" rel="bookmark"><span class="field field-name-title field-formatter-string field-type-string field-label-hidden">MASS ACTION vs. climate crisis &amp; colonialism at British Museum, 8.2.20</span>
+</a></h2><div class="node__meta"><div class="node__submitted">
+             <span class="node__author"><span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="">Art Not Oil</span></span>
+</span>
+             <span class="node__pubdate"><span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">Fri, 10/01/2020 - 2:51pm</span>
+</span>
+          </div></div></header>
+
+    <div class="node__content"><div class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item">From our friends at <a href="https://bp-or-not-bp.org/troy/">https://bp-or-not-bp.org/troy/</a>
+
+MASS ACTION against the climate crisis and colonialism – let’s kick BP out of the British Museum!
+
+SATURDAY FEBRUARY 8TH 2020 (exact times tbc)
+
+Want to join the largest protest the British Museum has ever seen?
+
+The British Museum is launching a major new exhibition, sponsored by the oil giant BP.
+
+We are in the middle of a climate emergency. The British Museum claims to agree – its Chair of Trustees recently called climate change “the great issue of our time”.</div></div>
+</div>
+<div class="sharethis-wrapper">
+      <span st_url="https://www.artnotoil.org.uk/blog/mass-action-vs-climate-crisis-colonialism-british-museum-8220" st_title="MASS ACTION vs. climate crisis &amp; colonialism at British Museum, 8.2.20" class="st_facebook_large" displayText="facebook"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/mass-action-vs-climate-crisis-colonialism-british-museum-8220" st_title="MASS ACTION vs. climate crisis &amp;amp; colonialism at British Museum, 8.2.20" class="st_twitter_large" displayText="twitter"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/mass-action-vs-climate-crisis-colonialism-british-museum-8220" st_title="MASS ACTION vs. climate crisis &amp;amp; colonialism at British Museum, 8.2.20" class="st_sharethis_large" displayText="sharethis"></span>
+
+  </div>
+<div class="node__links"><ul class="links inline"><li class="node-readmore"><span class="node-readmore__link-wrapper"><a href="blog/mass-action-vs-climate-crisis-colonialism-british-museum-8220.html" rel="tag" title="MASS ACTION vs. climate crisis &amp; colonialism at British Museum, 8.2.20" class="node-readmore__link" hreflang="und">Read more<span class="visually-hidden"> about MASS ACTION vs. climate crisis &amp; colonialism at British Museum, 8.2.20</span></a></span></li></ul></div></div></div>
+</article>
+
+  </div>
+    <div class="views-row">
+    <article data-history-node-id="3793" role="article" about="/blog/bp-or-not-bp-blockade-bp%E2%80%99s-vip-troy-event-living-statues" class="node node--id-3793 node--type-blog-entry node--promoted node--view-mode-teaser">
+  <div class="node__container">
+
+    <header class="node__header--has-meta node__header"><h2 class="node__title"><a href="blog/bp-or-not-bp-blockade-bp%e2%80%99s-vip-troy-event-living-statues.html" class="node__title-link" rel="bookmark"><span class="field field-name-title field-formatter-string field-type-string field-label-hidden">BP or not BP blockade BP’s VIP Troy event with living statues!</span>
+</a></h2><div class="node__meta"><div class="node__submitted">
+             <span class="node__author"><span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="">Art Not Oil</span></span>
+</span>
+             <span class="node__pubdate"><span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">Fri, 22/11/2019 - 7:49pm</span>
+</span>
+          </div></div></header>
+
+    <div class="node__content"><div class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item">November 20, 2019 by bpornotbp:
+
+'Last night, the private VIP launch of the BP-sponsored ‘Troy: Myth and reality’ exhibition faced serious disruption after we occupied the 5 main entrances to the exhibition gallery inside the British Museum.</div></div>
+</div>
+<div class="sharethis-wrapper">
+      <span st_url="https://www.artnotoil.org.uk/blog/bp-or-not-bp-blockade-bp%E2%80%99s-vip-troy-event-living-statues" st_title="BP or not BP blockade BP’s VIP Troy event with living statues!" class="st_facebook_large" displayText="facebook"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/bp-or-not-bp-blockade-bp%E2%80%99s-vip-troy-event-living-statues" st_title="BP or not BP blockade BP’s VIP Troy event with living statues!" class="st_twitter_large" displayText="twitter"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/bp-or-not-bp-blockade-bp%E2%80%99s-vip-troy-event-living-statues" st_title="BP or not BP blockade BP’s VIP Troy event with living statues!" class="st_sharethis_large" displayText="sharethis"></span>
+
+  </div>
+<div class="node__links"><ul class="links inline"><li class="node-readmore"><span class="node-readmore__link-wrapper"><a href="blog/bp-or-not-bp-blockade-bp%e2%80%99s-vip-troy-event-living-statues.html" rel="tag" title="BP or not BP blockade BP’s VIP Troy event with living statues!" class="node-readmore__link" hreflang="und">Read more<span class="visually-hidden"> about BP or not BP blockade BP’s VIP Troy event with living statues!</span></a></span></li></ul></div></div></div>
+</article>
+
+  </div>
+    <div class="views-row">
+    <article data-history-node-id="3792" role="article" about="/blog/open-letter-british-museum-re-bp-exhibition-troy-myth-and-reality" class="node node--id-3792 node--type-blog-entry node--promoted node--view-mode-teaser">
+  <div class="node__container">
+
+    <header class="node__header--has-meta node__header"><h2 class="node__title"><a href="blog/open-letter-british-museum-re-bp-exhibition-troy-myth-and-reality.html" class="node__title-link" rel="bookmark"><span class="field field-name-title field-formatter-string field-type-string field-label-hidden">OPEN LETTER TO BRITISH MUSEUM RE. BP EXHIBITION &#039;TROY: MYTH AND REALITY&#039;</span>
+</a></h2><div class="node__meta"><div class="node__submitted">
+             <span class="node__author"><span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="">Art Not Oil</span></span>
+</span>
+             <span class="node__pubdate"><span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">Tue, 19/11/2019 - 5:03pm</span>
+</span>
+          </div></div></header>
+
+    <div class="node__content"><div class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><a href="https://www.zoelafferty.com/open-letter?fbclid=IwAR2J1Gee2_Z5EM35kmS3-ubJ2p8FNB_6ezDiiow5-l7CdV50Hw5iRTp_q48">https://www.zoelafferty.com/open-letter?fbclid=IwAR2J1Gee2_Z5EM35kmS3-u…</a>
+18th November 2019
+​
+Dear Hartwig Fischer and Trustees of the British Museum,
+ 
+​As one of the performers and the director of the groundbreaking play ‘Queens of Syria’, we were initially thrilled to discover that a film of our work would be included in your upcoming exhibition ‘Troy: Myth and Reality’.</div></div>
+</div>
+<div class="sharethis-wrapper">
+      <span st_url="https://www.artnotoil.org.uk/blog/open-letter-british-museum-re-bp-exhibition-troy-myth-and-reality" st_title="OPEN LETTER TO BRITISH MUSEUM RE. BP EXHIBITION &#039;TROY: MYTH AND REALITY&#039;" class="st_facebook_large" displayText="facebook"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/open-letter-british-museum-re-bp-exhibition-troy-myth-and-reality" st_title="OPEN LETTER TO BRITISH MUSEUM RE. BP EXHIBITION &amp;#039;TROY: MYTH AND REALITY&amp;#039;" class="st_twitter_large" displayText="twitter"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/open-letter-british-museum-re-bp-exhibition-troy-myth-and-reality" st_title="OPEN LETTER TO BRITISH MUSEUM RE. BP EXHIBITION &amp;#039;TROY: MYTH AND REALITY&amp;#039;" class="st_sharethis_large" displayText="sharethis"></span>
+
+  </div>
+<div class="node__links"><ul class="links inline"><li class="node-readmore"><span class="node-readmore__link-wrapper"><a href="blog/open-letter-british-museum-re-bp-exhibition-troy-myth-and-reality.html" rel="tag" title="OPEN LETTER TO BRITISH MUSEUM RE. BP EXHIBITION &#039;TROY: MYTH AND REALITY&#039;" class="node-readmore__link" hreflang="und">Read more<span class="visually-hidden"> about OPEN LETTER TO BRITISH MUSEUM RE. BP EXHIBITION &#039;TROY: MYTH AND REALITY&#039;</span></a></span></li></ul></div></div></div>
+</article>
+
+  </div>
+    <div class="views-row">
+    <article data-history-node-id="3791" role="article" about="/blog/national-galleries-scotland-drops-bp-portrait-award" class="node node--id-3791 node--type-blog-entry node--promoted node--view-mode-teaser">
+  <div class="node__container">
+
+    <header class="node__header--has-meta node__header"><h2 class="node__title"><a href="blog/national-galleries-scotland-drops-bp-portrait-award.html" class="node__title-link" rel="bookmark"><span class="field field-name-title field-formatter-string field-type-string field-label-hidden">National Galleries of Scotland drops BP Portrait Award</span>
+</a></h2><div class="node__meta"><div class="node__submitted">
+             <span class="node__author"><span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="">Art Not Oil</span></span>
+</span>
+             <span class="node__pubdate"><span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">Mon, 11/11/2019 - 5:28pm</span>
+</span>
+          </div></div></header>
+
+    <div class="node__content"><div class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><a href="https://www.nationalgalleries.org/art-and-artists/features/announcement-bp-portrait-award-2019?fbclid=IwAR3uRXh1jlFwEdayprMfBVK681ir03mBOHRAP_oI_JUeBzneS4iZjaKxKl4">https://www.nationalgalleries.org/art-and-artists/features/announcement…</a>
+
+Statement from the National Galleries of Scotland, 11 November 2019:
+"At the National Galleries of Scotland we recognise that we have a responsibility to do all we can to address the climate emergency.</div></div>
+</div>
+<div class="sharethis-wrapper">
+      <span st_url="https://www.artnotoil.org.uk/blog/national-galleries-scotland-drops-bp-portrait-award" st_title="National Galleries of Scotland drops BP Portrait Award" class="st_facebook_large" displayText="facebook"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/national-galleries-scotland-drops-bp-portrait-award" st_title="National Galleries of Scotland drops BP Portrait Award" class="st_twitter_large" displayText="twitter"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/national-galleries-scotland-drops-bp-portrait-award" st_title="National Galleries of Scotland drops BP Portrait Award" class="st_sharethis_large" displayText="sharethis"></span>
+
+  </div>
+<div class="node__links"><ul class="links inline"><li class="node-readmore"><span class="node-readmore__link-wrapper"><a href="blog/national-galleries-scotland-drops-bp-portrait-award.html" rel="tag" title="National Galleries of Scotland drops BP Portrait Award" class="node-readmore__link" hreflang="und">Read more<span class="visually-hidden"> about National Galleries of Scotland drops BP Portrait Award</span></a></span></li></ul></div></div></div>
+</article>
+
+  </div>
+    <div class="views-row">
+    <article data-history-node-id="3790" role="article" about="/blog/nt-drops-shell" class="node node--id-3790 node--type-blog-entry node--promoted node--view-mode-teaser">
+  <div class="node__container">
+
+    <header class="node__header--has-meta node__header"><h2 class="node__title"><a href="blog/nt-drops-shell.html" class="node__title-link" rel="bookmark"><span class="field field-name-title field-formatter-string field-type-string field-label-hidden">NT drops Shell</span>
+</a></h2><div class="node__meta"><div class="node__submitted">
+             <span class="node__author"><span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="">Art Not Oil</span></span>
+</span>
+             <span class="node__pubdate"><span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">Sat, 05/10/2019 - 6:29pm</span>
+</span>
+          </div></div></header>
+
+    <div class="node__content"><div class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item">Second major cultural institution in a week to stand by its state its commitment to its statement of cultural emergency:
+<a href="https://www.bbc.co.uk/news/entertainment-arts-49936748">https://www.bbc.co.uk/news/entertainment-arts-49936748</a>
+<a href="https://www.theguardian.com/stage/2019/oct/04/national-theatre-to-end-shell-sponsorship-deal-from-next-year?fbclid=IwAR0OQvgxkEq3vatHIMixQfvVaKYUwl2YXYdiBt4KpN2bnRpXEC5EUHuzBiA">https://www.theguardian.com/stage/2019/oct/04/national-theatre-to-end-s…</a>
+</div></div>
+</div>
+<div class="sharethis-wrapper">
+      <span st_url="https://www.artnotoil.org.uk/blog/nt-drops-shell" st_title="NT drops Shell" class="st_facebook_large" displayText="facebook"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/nt-drops-shell" st_title="NT drops Shell" class="st_twitter_large" displayText="twitter"></span>
+
+      <span st_url="https://www.artnotoil.org.uk/blog/nt-drops-shell" st_title="NT drops Shell" class="st_sharethis_large" displayText="sharethis"></span>
+
+  </div>
+<div class="node__links"><ul class="links inline"><li class="node-readmore"><span class="node-readmore__link-wrapper"><a href="blog/nt-drops-shell.html" rel="tag" title="NT drops Shell" class="node-readmore__link" hreflang="und">Read more<span class="visually-hidden"> about NT drops Shell</span></a></span></li></ul></div></div></div>
+</article>
+
+  </div>
+
+    </div>
+  
+      <nav class="pager pager--full" role="navigation" aria-labelledby="pagination-heading">
+    <h3 id="pagination-heading" class="visually-hidden">Pagination</h3>
+    <div class="pager__items">
+      <ul class="pager__items__first-previous js-pager__items"><li class="pager__item pager__item--first pager__item--text">
+            <a href="node02e4.html?page=0" class="pager__link" title="Go to first page">
+              <span class="visually-hidden">First page</span>
+              <span class="pager__first" aria-hidden="true">« First</span>
+            </a>
+          </li><li class="pager__item pager__item--previous pager__item--text">
+            <a href="nodec575.html?page=6" class="pager__link" title="Go to previous page" rel="prev">
+              <span class="visually-hidden">Previous page</span>
+              <span class="pager__previous" aria-hidden="true">‹ Previous</span>
+            </a>
+          </li></ul>      <ul class="pager__items__num-pages js-pager__items"><li class="pager__item pager__item--num pager__item--num-first"><a href="node9ba9.html?page=3" class="pager__link" title="Go to page 4">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__ellipsis pager__ellipsis--before" role="presentation">&hellip;</span><span class="pager__key">4</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num"><a href="nodefdb0.html?page=4" class="pager__link" title="Go to page 5">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">5</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num"><a href="nodeaf4d.html?page=5" class="pager__link" title="Go to page 6">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">6</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num"><a href="nodec575.html?page=6" class="pager__link" title="Go to page 7">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">7</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num   is-active"><a href="node235c.html?page=7" class="pager__link pager__link--is-active" title="Current page">
+              <span class="visually-hidden">Current page</span>
+              <span class="pager__key">8</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num"><a href="nodefdfa.html?page=8" class="pager__link" title="Go to page 9">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">9</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num"><a href="node0b08.html?page=9" class="pager__link" title="Go to page 10">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">10</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num"><a href="node1448.html?page=10" class="pager__link" title="Go to page 11">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">11</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num  pager__item--num-last"><a href="node1c8b.html?page=11" class="pager__link" title="Go to page 12">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">12</span>
+              <span class="pager__ellipsis pager__ellipsis--after" role="presentation">&hellip;</span></a>
+          </li>
+              </ul>
+      <ul class="pager__items__next-last js-pager__items"><li class="pager__item pager__item--next pager__item--text">
+            <a href="nodefdfa.html?page=8" class="pager__link" title="Go to next page" rel="next">
+              <span class="visually-hidden">Next page</span>
+              <span class="pager__next" aria-hidden="true">Next ›</span>
+            </a>
+          </li><li class="pager__item pager__item--last pager__item--text">
+            <a href="nodedcf3.html?page=31" class="pager__link" title="Go to last page">
+              <span class="visually-hidden">Last page</span>
+              <span class="pager__last" aria-hidden="true">Last »</span>
+            </a>
+          </li></ul></div>
+  </nav>
+              <div class="feed-icons">
+      <a href="rss.xml" class="feed-icon">
+  <svg version="1.1" class="feed-icon-rss" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <g>
+      <path class="feed-icon-rss__path" d="M2.7,14.5c-0.8,0-1.4,0.3-1.9,0.8C0.3,15.9,0,16.5,0,17.3c0,0.8,0.3,1.4,0.8,1.9 C1.3,19.7,2,20,2.7,20s1.4-0.3,1.9-0.8c0.5-0.5,0.8-1.2,0.8-1.9c0-0.8-0.3-1.4-0.8-1.9C4.1,14.8,3.5,14.5,2.7,14.5z"/>
+      <path class="feed-icon-rss__path" d="M9,11C7.9,9.9,6.7,9.1,5.3,8.4C3.9,7.8,2.5,7.4,1,7.3H0.9c-0.2,0-0.4,0.1-0.6,0.2 C0.1,7.7,0,7.9,0,8.2v1.9c0,0.2,0.1,0.4,0.2,0.6C0.4,10.9,0.6,11,0.8,11c2.2,0.2,4,1.1,5.6,2.6C7.9,15.2,8.8,17,9,19.2 c0,0.2,0.1,0.4,0.3,0.6C9.5,19.9,9.7,20,9.9,20h1.9c0.3,0,0.5-0.1,0.7-0.3c0.2-0.2,0.3-0.4,0.2-0.7c-0.1-1.5-0.5-3-1.1-4.3 C10.9,13.3,10.1,12.1,9,11z"/>
+      <path class="feed-icon-rss__path" d="M18.3,11.9c-1-2.3-2.4-4.3-4.2-6c-1.8-1.8-3.8-3.2-6-4.2C5.8,0.7,3.4,0.1,1,0h0 C0.7,0,0.5,0.1,0.3,0.3C0.1,0.4,0,0.6,0,0.9v2c0,0.2,0.1,0.4,0.2,0.6s0.4,0.3,0.6,0.3c2,0.1,4,0.6,5.8,1.4s3.4,1.9,4.8,3.3 c1.3,1.3,2.4,2.9,3.3,4.8c0.8,1.8,1.3,3.8,1.4,5.8c0,0.2,0.1,0.4,0.3,0.6c0.2,0.2,0.4,0.2,0.6,0.2h2c0.3,0,0.5-0.1,0.7-0.3 c0.2-0.2,0.3-0.4,0.3-0.7C19.9,16.6,19.3,14.2,18.3,11.9z"/>
+    </g>
+  </svg><span class="visually-hidden">Subscribe</span>
+</a>
+
+    </div>
+  </div>
+</div>
+
+  
+</main>
+</div><div  data-at-region="2" data-at-block-count="3" class="l-r region pr-main__sidebar-first" id="rid-sidebar-first"><div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-blog-list-block has-title" id="block-views-block-blog-list-block" role="region" aria-labelledby="block-views-block-blog-list-block-title">
+  <div class="block__inner">
+
+    <h2  class="block__title" id="block-views-block-blog-list-block-title"><span>Latest blog entries</span></h2><div class="block__content"><div class="element-container-wrapper"><div class="view view-blog-list view-id-blog_list view-display-id-block js-view-dom-id-3059efe8cfdaa032f6d49e48fd05203f729a0b7574ce30ea130e550bc4929cdb">
+  
+    
+      
+      <div class="view-content view-rows">
+          <div class="views-row">
+    <div class="views-field views-field-field-blog-entry-image"><div class="field-content"><img src="sites/default/files/styles/blog_thumbnail__left_sidebar_/public/2024-12/outside-BM-1024x681cf90.jpg?itok=EVPDbZYA" width="25" height="17" alt="Flash mob" loading="lazy" typeof="foaf:Image" class="image-style-blog-thumbnail__left-sidebar-" />
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="blog/singing-flash-mob-british-museum.html" hreflang="en">Singing flash mob at British Museum</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-field-blog-entry-image"><div class="field-content"><img src="sites/default/files/styles/blog_thumbnail__left_sidebar_/public/2024-08/Screenshot%202024-08-13%20at%2010.59.04b434.png?itok=__XKt0lc" width="25" height="26" alt="Worst banks" loading="lazy" typeof="foaf:Image" class="image-style-blog-thumbnail__left-sidebar-" />
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="blog/mark-rylance-among-actors-calling-old-vic-cut-links-fossil-fuel-investor.html" hreflang="en">&#039;Mark Rylance among actors calling on Old Vic to cut links with fossil fuel investor&#039;</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-field-blog-entry-image"><div class="field-content"><img src="sites/default/files/styles/blog_thumbnail__left_sidebar_/public/2024-07/12-04-2024___Andrea-Domeniconi_NZ6_3902-scaled-e1714391754593-1536x86467a1.jpg?itok=wbkJ5zQe" width="25" height="14" alt="Museums Association" loading="lazy" typeof="foaf:Image" class="image-style-blog-thumbnail__left-sidebar-" />
+
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="fossil-fuel-sponsorship-climate-colonialism-our-sector-must-help-end-it.html" hreflang="en">&#039;Fossil fuel sponsorship is climate colonialism – our sector must help end it&#039;</a></span></div>
+  </div>
+
+    </div>
+  
+            <div class="view-footer">
+      <a href="index.html" title="go to blog, on the homepage" class="readMore">Go to blog &gt;</a>
+    </div>
+    </div>
+</div>
+</div></div>
+</div>
+<div class="views-element-container l-bl block block-config-provider--views block-plugin-id--views-block-artwork-recent-in-sidebar-block-1 has-title" id="block-views-block-artwork-recent-in-sidebar-block-1" role="region" aria-labelledby="block-views-block-artwork-recent-in-sidebar-block-1-title">
+  <div class="block__inner">
+
+    <h2  class="block__title" id="block-views-block-artwork-recent-in-sidebar-block-1-title"><span>Random artwork</span></h2><div class="block__content"><div class="element-container-wrapper"><div class="view view-artwork-recent-in-sidebar view-id-artwork_recent_in_sidebar view-display-id-block_1 js-view-dom-id-3a37f58dee883a210852f82d9c30414dd13be32938ea585284a370fafd49c0d6">
+  
+    
+      
+      <div class="view-content view-rows">
+          <div class="views-row">
+    <div class="views-field views-field-field-media-image"><div class="field-content"><a href="artwork/album-shells-wild-lie/hell-earth-douglas-minkler.html" title="go to &#039;Hell on Earth&#039; - Douglas Minkler art work"><img src="sites/default/files/styles/artwork_thumbnail_in_sidebar/public/artwork/Hell_on_Earth_Douglas__Minkler423d.jpg?itok=xFbKL7z1" width="198" height="152" loading="lazy" typeof="Image" class="image-style-artwork-thumbnail-in-sidebar" />
+
+</a></div></div>
+  </div>
+
+    </div>
+  
+            <div class="view-footer">
+      <a href="artwork.html" title="go to Artwork page" class="readMore">See all &gt;</a>
+    </div>
+    </div>
+</div>
+</div></div>
+</div>
+<div id="block-twitterstreaminsidebar" class="l-bl block block-config-provider--block-content block-plugin-id--block-content-c7d9a03e-f1f6-4698-8aa2-dabc0ae3a763 has-title block--type-basic block--view-mode-full" role="region" aria-labelledby="block-twitterstreaminsidebar-title">
+  <div class="block__inner">
+
+    <h2  class="block__title" id="block-twitterstreaminsidebar-title"><span>Twitter</span></h2><div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><a class="twitter-timeline" href="https://twitter.com/ArtNotOil?ref_src=twsrc%5Etfw">Tweets by ArtNotOil</a> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div></div>
+</div>
+</div></div>
+</div>
+</div>
+    </div>
+  </div>
+  
+</div>
+<div data-at-row="footer" class="l-footer l-row">
+  
+  <footer class="l-pr page__row pr-footer" role="contentinfo" id="footer">
+    <div class="l-rw regions container pr-footer__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="1" data-at-block-count="2" class="l-r region pr-footer__footer" id="rid-footer"><div id="block-footercopyrightandprivacy" class="l-bl block block-config-provider--block-content block-plugin-id--block-content-0685224a-dcbc-4dd1-83dc-e71b607cdcb7 block--type-basic block--view-mode-full">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><div>
+<ul>
+	<li><span>© Art Not Oil 2021</span></li>
+	<li><span>Art Not Oil Coalition, LARC, 62 Fieldgate Street, London E1 1ES</span></li>
+</ul>
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+<nav role="navigation" aria-labelledby="block-ano-footer-menu" id="block-ano-footer" class="l-bl block block-menu block-config-provider--system block-plugin-id--system-menu-block-footer">
+  <div class="block__inner block-menu__inner">
+
+    
+    <h2 class="visually-hidden block__title block-menu__title" id="block-ano-footer-menu"><span>Footer menu</span></h2>
+    <div class="block__content block-menu__content">
+<ul class="menu odd menu-level-1 menu-name--footer">    
+                
+    
+        <li class="menu__item menu__item-title--log-in" id="menu-name--footer__log-in">
+
+        <span class="menu__link--wrapper">
+            <a href="user/login.html" class="menu__link" data-drupal-link-system-path="user/login">Log in</a>
+        </span>
+
+        
+        </li>    
+                
+    
+        <li class="menu__item menu__item-title--previous-site-archive" id="menu-name--footer__previous-site-archive">
+
+        <span class="menu__link--wrapper">
+            <a href="archive.html" class="menu__link" data-drupal-link-system-path="archive">Previous Site Archive</a>
+        </span>
+
+        
+        </li>    
+                
+    
+        <li class="menu__item menu__item-title--privacy-policy" id="menu-name--footer__privacy-policy">
+
+        <span class="menu__link--wrapper">
+            <a href="privacy-policy.html" class="menu__link" data-drupal-link-system-path="node/3400">Privacy Policy</a>
+        </span>
+
+        
+        </li></ul>
+
+
+</div></div>
+</nav>
+</div>
+    </div>
+  </footer>
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"page":"7"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"theme":"ano","libraries":"ano\/ano.layout.page,ano\/base,ano\/ckeditor,ano\/color,ano\/comment,ano\/contact,ano\/custom_css,ano\/custom_css_file,ano\/fontfaceobserver,ano\/fonts,ano\/google_fonts,ano\/jquery_ui,ano\/responsive_menus,ano\/responsive_menus_horizontal,ano\/responsive_tables,ano\/search,ano\/social_media_links,ano\/taxonomy,ano\/title_styles,at_core\/at.breakpoints,at_core\/at.responsivelists,at_core\/at.responsivemenus,at_core\/at.settings,fitvids\/fitvids,fitvids\/init,sharethis\/sharethis,sharethis\/sharethispickerexternalbuttons,sharethis\/sharethispickerexternalbuttonsws,social_media_links\/social_media_links.theme,system\/base,views\/views.module","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"fitvids":{"selectors":".node\r,.media_embed","custom_vendors":"","ignore_selectors":""},"ano":{"at_responsivemenus":{"bp":"all and (min-width: 60.0625em)","default":"ms-horizontal","responsive":"ms-horizontal","acd":{"acd_load":false,"acd_default":false,"acd_responsive":false,"acd_both":true}},"at_breakpoints":{"at_core_simple_wide":{"breakpoint":"wide","mediaquery":"all and (min-width: 60.0625em)"},"at_core_simple_tablet-isolate":{"breakpoint":"tablet-isolate","mediaquery":"all and (min-width: 45.0625em) and (max-width: 60em)"},"at_core_simple_mobile":{"breakpoint":"mobile","mediaquery":"all and (max-width: 45em)"}}},"sharethis":{"publisher":"dr-eb2b93a5-82cc-459e-a9b9-4b99b3c4a6b5","version":"5x","doNotCopy":true,"hashAddressBar":false,"doNotHash":true},"user":{"uid":0,"permissionsHash":"3a09c523db586b149542537bfbd4f249178efd8a3b456c8e1108d3ccde21dd20"}}</script>
+<script src="sites/default/files/js/js_TkKNhnYU_Kf3DD1znsy46JqvREdSYT_eL1u57-uYJ_s.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fontfaceobserver/2.0.8/fontfaceobserver.js"></script>
+<script src="sites/default/files/js/js_pd1PzqaAJpRKudQ7DOrZswEz8iwMlVhTOeBTM6OtlyY.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/enquire.js/2.1.2/enquire.min.js"></script>
+<script src="sites/default/files/js/js_LXrwJ7mVyXOdgElCZKnXOYKTEAcpmIoYeHIXAj2TYHs.js"></script>
+<script src="https://ws.sharethis.com/button/buttons.js"></script>
+<script src="sites/default/files/js/js_KKPpUqbK0J7NhlFKN5TRZsDtfyXChJHBpJiVVYzCJXI.js"></script>
+
+  </body>
+</html>

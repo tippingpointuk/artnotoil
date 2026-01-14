@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.artnotoil.org.uk/">
+  <channel>
+    <title>Archive</title>
+    <link>https://www.artnotoil.org.uk/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Another Tate member resigns over BP sponsorship</title>
+  <link>https://www.artnotoil.org.uk/blog/another-tate-member-resigns-over-bp-sponsorship</link>
+  <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Another Tate member resigns over BP sponsorship&lt;/span&gt;
+&lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://www.artnotoil.org.uk/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Art Not Oil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Fri, 30/08/2013 - 1:00am&lt;/span&gt;
+&lt;div class="clearfix text-formatted field field-node--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"&gt;&lt;div class="field__items"&gt;&lt;div class="field__item"&gt;&lt;p&gt;Read Bridget McKenzie's powerful statement here:&lt;a href="http://thelearningplanet.wordpress.com/2013/08/24/open-to-tate/#comment-559"&gt;http://thelearningplanet.wordpress.com/2013/08/24/open-to-tate/#comment…&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="field field-node-field-tags field-entity-reference-type-taxonomy-term field-formatter-entity-reference-label field-name-field-tags field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Tags&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--archive"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://www.artnotoil.org.uk/tags/archive" hreflang="en"&gt;Archive&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="sharethis-wrapper"&gt;
+      &lt;span st_url="https://www.artnotoil.org.uk/blog/another-tate-member-resigns-over-bp-sponsorship" st_title="Another Tate member resigns over BP sponsorship" class="st_facebook_large" displaytext="facebook"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/blog/another-tate-member-resigns-over-bp-sponsorship" st_title="Another Tate member resigns over BP sponsorship" class="st_twitter_large" displaytext="twitter"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/blog/another-tate-member-resigns-over-bp-sponsorship" st_title="Another Tate member resigns over BP sponsorship" class="st_sharethis_large" displaytext="sharethis"&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;section class="field field-node--comment-node-blog-entry field-formatter-comment-default field-name-comment-node-blog-entry field-type-comment field-label-hidden display-mode-threaded comment-bundle-comment-node-blog-entry comment-wrapper"&gt;
+  &lt;a name="comments" id="comments"&gt;&lt;/a&gt;&lt;div class="comment-form-wrapper"&gt;
+      &lt;h2 class="comment-form__title h3"&gt;Add new comment&lt;/h2&gt;&lt;drupal-render-placeholder callback="comment.lazy_builders:renderForm" arguments="0=node&amp;1=3504&amp;2=comment_node_blog_entry&amp;3=comment_node_blog_entry" token="GPRY-4cxh9fCpZM5gMjTLzdtwM1mMeWzbtKMwwTYnnw"&gt;&lt;/drupal-render-placeholder&gt;&lt;/div&gt;&lt;/section&gt;
+</description>
+  <pubDate>Fri, 30 Aug 2013 00:00:00 +0000</pubDate>
+    <dc:creator>Art Not Oil</dc:creator>
+    <guid isPermaLink="false">3504 at https://www.artnotoil.org.uk</guid>
+    </item>
+<item>
+  <title>'About' page from old site</title>
+  <link>https://www.artnotoil.org.uk/blog/about-page-old-site</link>
+  <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;'About' page from old site&lt;/span&gt;
+&lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://www.artnotoil.org.uk/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Sun, 03/11/2013 - 5:14pm&lt;/span&gt;
+&lt;div class="clearfix text-formatted field field-node--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"&gt;&lt;div class="field__items"&gt;&lt;div class="field__item"&gt;&lt;p&gt;&lt;img alt="" src="https://www.artnotoil.org.uk/dev/sites/default/files/about.jpg" style="width: 432px; height: 330px;" /&gt;&lt;br /&gt;
+&lt;em style="font-size: 14px;"&gt;See below for a more detailed explanatory pdf, but in the meantime:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Art Not Oil has campaigned against Big Oil cultural sponsorship since 2004. It has also encouraged artists - and would-be artists - to create work that explores the damage that companies like BP and Shell are doing to the planet, and to celebrate the role art can play in counteracting that damage, seeking solutions or simply lifting the spirits. A huge amount of this work is now featured in its 14 online galleries, the most recent of which was '&lt;a href="http://www.artnotoil.org.uk/galleries/cultural_or_vultural_001/"&gt;Cultural or Vultural 2012?&lt;/a&gt;', which was a response to BP's sponsorship of both the 2012 Olympics, and the Cultural Olympiad. &lt;/p&gt;
+
+&lt;p&gt;Art Not Oil is part of &lt;a href="http://risingtide.org.uk/"&gt;Rising Tide&lt;/a&gt;, a UK and international network of grassroots groups taking direct action for 'climate justice'.&lt;/p&gt;
+
+&lt;p&gt;It is designed in part to paint a truer portrait of an oil company than the caring image manufactured by events such as the BP Portrait Award, Shell's sponsorship of classic drama at the National Theatre, and other 'cultural activities' of the oil multinationals which also happen to divert public attention away from their actual activities. Climate chaos is set to have a catastrophic effect on all of us, while hitting the poorest hardest. The companies most responsible are profiting handsomely, yet they're still welcome it seems in many of our most prestigious public galleries and museums.&lt;/p&gt;
+
+&lt;p&gt;In 2007-8, our Art Not Oil and '&lt;a href="http://www.artnotoil.org.uk/galleries/Shell/"&gt;Shell's Wild Lie&lt;/a&gt;' exhibitions toured the UK as well as growing in their online galleries. Shell's Wild Lie was part of our campaign against Shell's sponsorship of the Natural History Museum's 'Wildlife Photographer of the Year' exhibition, which also included actions and copious communications from concerned members of the public. We worked with Friends of the Earth to bring campaigners affected by Shell's destructive activities to London, and FoE ran an excellent campaign to raise awareness. We can't be sure exactly why the 2 year contract between the NHM and Shell wasn't renewed, but we were completely cockahoop at the result.&lt;/p&gt;
+
+&lt;p&gt;2009 was our 6th year of operation, and began with the end of Shell at the National Theatre (potentially), with 'Oedipus' closing on Ogoni Day - January 4th.&lt;/p&gt;
+
+&lt;p&gt;The Shell Galleries grew inexorably; we added a &lt;a href="http://www.artnotoil.org.uk/galleries/burning+_planet/"&gt;BP Gallery&lt;/a&gt; to keep it company.&lt;/p&gt;
+
+&lt;p&gt;Our &lt;a href="http://www.artnotoil.org.uk/news/2-default/57-art-not-oil-2010-diary-now-down-to-a-rock-bottom"&gt;2010 diary&lt;/a&gt; was used by all sorts of interested and interesting people, (we still have a few left over, in case you're interested - it was  a one-off, so naturally it's something you'll want your grandchildren to find amongst your belongings.)&lt;/p&gt;
+
+&lt;p&gt;BP's Deepwater oil spill in April 2010 triggered a wave of actions against BP's sponsorship of culture, particularly the Tate, spearheaded by Liberate Tate and &lt;a href="http://www.carbonweb.org/showitem.asp?article=381"&gt;Licence to Spill&lt;/a&gt;, and followed by the &lt;a href="http://www.bp-or-not-bp.org/"&gt;Reclaim Shakespeare Company&lt;/a&gt;. They have joined us in the campaign to push - or nudge - sponsored institutions to adopt climate (justice)-related sponsorship criteria.&lt;/p&gt;
+
+&lt;p&gt;We can't be sure of the reasons, but we heard in April 2011 that the Almeida Theatre no longer accepts sponsorship from BP. It may have been our flow of courteous communications in 2010, or the Art Not Oil dairies delivered to every employee; it might have been the vocal opposition to BP of musician (and sometime Almeida collaborator) Matthew Herbert...it may have been other factors. Whatever the cause, it's excellent news. We wish the Almeida the best of luck in continuing to stage powerful theatre in the face of a tough Arts Council cut.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href="http://www.artnotoil.org.uk/galleries/2011/"&gt;2011-13 online gallery&lt;/a&gt; is growing gradually, and it was joined in 2011 by '&lt;a href="http://www.artnotoil.org.uk/galleries/Facing+the+Gulf/"&gt;Facing the Gulf&lt;/a&gt;', a series of portraits by - and of - those affected by Deepwater.&lt;/p&gt;
+
+&lt;p&gt;Every time a cultural institution turns down fossil fuelled support, Big Oil's stranglehold on us all is eased a little. When the entire sector has gone the way of Big Tobacco in being unwelcome in any gallery, museum, opera house or theatre, the transition to a more just and safer world will be more within our grasp than ever.&lt;/p&gt;
+
+&lt;p&gt;We hope you are affected by what you see here, and are able to help us speed up the process of getting Big Oil kicked out of High Culture. If you have any queries, or would like to get involved, whether submitting artwork, hosting an exhibition, doing publicity or getting involved with many other tasks that need doing to highlight the actions we need to take to combat climate chaos and social injustice, then...&lt;/p&gt;
+
+&lt;p&gt;...please ring us on: 07709 545116 or see &lt;a href="http://www.artnotoil.org.uk/contact-us"&gt;Contact Us&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Art Not Oil is a project of &lt;a href="http://risingtide.org.uk/"&gt;Rising Tide UK&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3&gt;Art Not Oil: What's Happened and Why?&lt;/h3&gt;
+
+&lt;p&gt;Here is an extended version of the piece that appeared in the 2010 Art Not Oil desk diary&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="sites/default/files/ANOEssayDiary09.pdf"&gt;Download 2010 diary&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="field field-node-field-tags field-entity-reference-type-taxonomy-term field-formatter-entity-reference-label field-name-field-tags field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Tags&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--archive"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://www.artnotoil.org.uk/tags/archive" hreflang="en"&gt;Archive&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="sharethis-wrapper"&gt;
+      &lt;span st_url="https://www.artnotoil.org.uk/blog/about-page-old-site" st_title="'About' page from old site" class="st_facebook_large" displaytext="facebook"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/blog/about-page-old-site" st_title="&amp;#039;About&amp;#039; page from old site" class="st_twitter_large" displaytext="twitter"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/blog/about-page-old-site" st_title="&amp;#039;About&amp;#039; page from old site" class="st_sharethis_large" displaytext="sharethis"&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;section class="field field-node--comment-node-blog-entry field-formatter-comment-default field-name-comment-node-blog-entry field-type-comment field-label-hidden display-mode-threaded comment-bundle-comment-node-blog-entry comment-wrapper"&gt;
+  &lt;a name="comments" id="comments"&gt;&lt;/a&gt;&lt;div class="comment-form-wrapper"&gt;
+      &lt;h2 class="comment-form__title h3"&gt;Add new comment&lt;/h2&gt;&lt;drupal-render-placeholder callback="comment.lazy_builders:renderForm" arguments="0=node&amp;1=3660&amp;2=comment_node_blog_entry&amp;3=comment_node_blog_entry" token="73Tb11BF7CYBWUfylsUh6lAZTfBHn0i5zSVtZAjxNGg"&gt;&lt;/drupal-render-placeholder&gt;&lt;/div&gt;&lt;/section&gt;
+</description>
+  <pubDate>Sun, 03 Nov 2013 17:14:26 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">3660 at https://www.artnotoil.org.uk</guid>
+    </item>
+<item>
+  <title>'Links' page from previous site</title>
+  <link>https://www.artnotoil.org.uk/blog/links-page-previous-site</link>
+  <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;'Links' page from previous site&lt;/span&gt;
+&lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://www.artnotoil.org.uk/users/admin" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Sun, 03/11/2013 - 1:58pm&lt;/span&gt;
+&lt;div class="clearfix text-formatted field field-node--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"&gt;&lt;div class="field__items"&gt;&lt;div class="field__item"&gt;&lt;h3&gt;Funding Organisations&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="http://www.apeuk.org/"&gt;Artists' Project Earth&lt;/a&gt;&lt;br /&gt;
+	Supported the ANO 2010 Desk Diary!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;br /&gt;
+Websites of Activist &amp; Research Groups&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="http://liberatetate.wordpress.com/"&gt;Liberate Tate&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.labofii.net/"&gt;Laboratory of Insurrectionary Imagination&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.climategreenwash.org/"&gt;Climate Greenwash&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.airportwatch.org.uk/"&gt;Airport Watch&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.planestupid.com/index.php"&gt;Plane Stupid&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://planb.org/"&gt;Plan B&lt;/a&gt;&lt;br /&gt;
+	For a sustainable energy future.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.oilwatch.org/index.php?lang=en"&gt;Oilwatch&lt;/a&gt;&lt;br /&gt;
+	A resistance network opposing the activities of oil companies in tropical countries.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.thecornerhouse.org.uk/"&gt;Cornerhouse &lt;/a&gt;&lt;br /&gt;
+	Produce excellent detailed briefings on carbon trading as well as plenty of other research material. &lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.sinkswatch.org/"&gt;Sinkswatch&lt;/a&gt;&lt;br /&gt;
+	Tracking carbon trading projects.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.tni.org/ctw"&gt;Carbon Trade Watch&lt;/a&gt;&lt;br /&gt;
+	Why market-based mechanisms are bad for the climate (but great for greenwash...)&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.carbonweb.org/"&gt;PLATFORM's carbon web&lt;/a&gt;&lt;br /&gt;
+	PLATFORM's Shell &amp; BP research: info-rich site!&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.corporatewatch.org.uk/"&gt;Corporate Watch&lt;/a&gt;&lt;br /&gt;
+	Spilling the beans on the corporations.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://risingtide.org.uk/index.htm"&gt;Rising Tide UK &lt;/a&gt;&lt;br /&gt;
+	Network of individuals and groups dedicated to taking local action and building a movement against climate change.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://londonrisingtide.org.uk/"&gt;London Rising Tide&lt;/a&gt;&lt;br /&gt;
+	Direct action group once responsible for Art Not Oil; (we still love 'em!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;br /&gt;
+ANO News Stories&lt;/h3&gt;
+
+&lt;p&gt;News stories about the growing movement against oily sponsorship.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="http://www.brandrepublic.com/News/627293/Olympic-sponsors-set-face-lukewarm-reception/?DCMP=ILC-SEARCH"&gt;Olympic sponsors set to face lukewarm reception, Brand Republic, 25.1.07&lt;/a&gt;&lt;br /&gt;
+	Olympic sponsors set to face lukewarm reception by Darren Davidson, Brand Republic 25-Jan-07, 10:30 LONDON - The general public has given a huge thumbs down to the London 2012 Olympic organiser's plans to raise sponsorship money from companies pe&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://priceofoil.org/2008/01/29/shell-ditched-as-sponsor-of-top-wildlife-competiton/"&gt;Shell Wildlife victory&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.culture24.org.uk/art/art51818"&gt;24 Hour Museum&lt;/a&gt;&lt;br /&gt;
+	Shell's Wild Lie - Art Not Oil Exhibition Opens At Aberystwyth Arts Centre&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www1.indymedia.org.uk/en/2003/10/278320.html"&gt;Targetting The Tate&lt;/a&gt;&lt;br /&gt;
+	London rising Tide visits the Tate re BP sponsorhsip and questions about the Baku-Ceyhan pipeline.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.corporatewatch.org.uk/?lid=1396"&gt;Oil On Canvas. &lt;/a&gt;&lt;br /&gt;
+	Corporate Watch article on 2004 Art Not Oil.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.indymedia.org.uk/en/2004/04/288975.html"&gt;Call out for the 2004 Exhibition&lt;/a&gt;&lt;br /&gt;
+	The 2004 Art Not Oil campaign.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.indymedia.org.uk/en/2004/04/288975.html"&gt;Oil Festival Hall Banner Drop 2004&lt;/a&gt;&lt;br /&gt;
+	Rising Tide visits the South Bank&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.indymedia.org.uk/en/2003/07/273928.html"&gt;Climate Activists at the British Museum&lt;/a&gt;&lt;br /&gt;
+	2003 Rising Tide action at the British Museum.&lt;/li&gt;
+	&lt;li&gt;'&lt;a href="http://www.theecologist.org/how_to_make_a_difference/climate_change_and_energy/777665/platform_attempting_to_drive_a_wedge_between_the_tate_modern_and_bp.html"&gt;Platform: attempting to drive a wedge between the Tate Modern and BP&lt;/a&gt;' - Ecologist, 18.2.11&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.independent.co.uk/arts-entertainment/art/features/no-such-thing-as-bad-publicity-for-the-city-slickers-6281845.html"&gt;Independent piece&lt;/a&gt; quotes Art Not Oiler, 27.12.11&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.guardian.co.uk/artanddesign/2011/dec/13/tate-bp-partnership-environmental-protests"&gt;Vultural or Cultural Olympiad?&lt;/a&gt; (And more...) - Guardian article, 13.12.11&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.independent.co.uk/arts-entertainment/art/news/art-collective-liberate-tate-uses-arctic-ice-to-protest-at-gallerys-bp-sponsorship-6290448.html"&gt;Art collective Liberate Tate uses Arctic ice to protest at gallery's BP sponsorship&lt;/a&gt; - The Independent, 16.01.12&lt;/li&gt;
+	&lt;li&gt;PLATFORM radio show about oil sponsorship, and creative resistance to it, (Dec '11): &lt;a href="http://soundcloud.com/resonance-fm/platform-culture-beyond-oil"&gt;http://soundcloud.com/resonance-fm/platform-culture-beyond-oil&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.artinfo.com/news/story/755049/liberate-tates-spokesman-on-why-fighting-bp-sponsorship-picks-up-the-cause-of-tahrir-square"&gt;Liberate Tate's Spokesman on Why Fighting BP Sponsorship Picks Up the Cause of Tahrir Square&lt;/a&gt; - ARTINFO UK, 4.01.12&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.platformlondon.org/2012/01/13/how-john-browne-bp-and-the-old-boys-network-keep-the-arts-well-oiled"&gt;A laser-guided look at the old ways keeping power in the hands of a (very) few, and the way they prevent positive change from coming to pass&lt;/a&gt; (for now at least)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Memorial sites&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="http://remembersarowiwa.com/"&gt;Remember Saro-Wiwa&lt;/a&gt;&lt;br /&gt;
+	2005 was the tenth anniversary of the murder by the Shell-backed Nigerian government of writer and activist Ken Saro-Wiwa.'Remember Saro-Wiwa' is a coalition of groups that helped set up a competition to create a living memorial to him - and what he and his compatriots achieved&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.shelloiledwildlife.org.uk/"&gt;Shell Oiled Wildlife&lt;/a&gt;; Rising Tide/Art Not Oil campaign against Shell's sponsorship of Wildlife Photographer Of The Year Competition. 'Shell's Wild Lie' etc.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.nationalpetroleumgallery.org.uk/"&gt;National Petroleum Gallery&lt;/a&gt;&lt;br /&gt;
+	Spoof NPG site.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;br /&gt;
+Films&lt;/h3&gt;
+
+&lt;p&gt;Films tackling climate change and related issues.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="http://just-do-it.org.uk/"&gt;Just Do It&lt;/a&gt;&lt;br /&gt;
+	July 2010: Just Do It is an exciting new feature-length documentary film that follows the mischievous and risky world of UK climate activists.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://schnews.org.uk/schmovies/index.html"&gt;SchNEWS Movies&lt;/a&gt;&lt;br /&gt;
+	Free short movies on environmental and related themes from Brightons best loved,( and written )&amp; most informative newspaper.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://clearerchannel.org/media/page.php?id=448&amp;prefix=video"&gt;Reach For The Sky&lt;/a&gt;&lt;br /&gt;
+	Activist filmakers Undercurrents reportage of anti-runway campaigns.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;br /&gt;
+Alt Art Projects&lt;/h3&gt;
+
+&lt;p&gt;Here are links to a few relevant alt. political art projects.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="http://www.artsandecology.org.uk/"&gt;RSA Arts &amp; Ecology&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.dark-mountain.net/"&gt;Dark Mountain&lt;/a&gt;&lt;br /&gt;
+	Artists create Uncivilisation&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.climatechangeartists.com/"&gt;Climate Change Artists&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.powertotheposter.org/"&gt;Power to the Poster&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.justseeds.org/"&gt;Justseeds&lt;/a&gt;&lt;br /&gt;
+	Visual resistance artists' cooperative, Portland, Oregon, USA&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.politicalgraphics.org/"&gt;Centre for the Study of Political Graphics&lt;/a&gt; (based in USA)&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.consciousoil.org/"&gt;www.consciousoil.org&lt;/a&gt;&lt;br /&gt;
+	'Myth and mind in the age of petroleum'&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;&lt;br /&gt;
+Articles &amp; Useful Publications&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="http://www.care2.com/causes/education/blog/eatlacma-and-bp-when-a-socially-responsible-art-project-gets-tied-in-with-socially-unresponsible-funding/"&gt;Eco-Art Exhibit Tied to BP Funding&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://kimberleycrofts.wordpress.com/2009/10/31/going-to-war-with-a-pencil/"&gt;Going to war with a pencil&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.earthfirstjournal.org/"&gt;Earth First! Journal&lt;/a&gt;&lt;br /&gt;
+	Hidden stories of resistance, as well as terrific artworks, poetry etc.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.corporateeurope.org/"&gt;BP - Extracting Influence at the Heart of the EU&lt;/a&gt;&lt;br /&gt;
+	BP is one of the world’s leading international oil and gas companies (IOCs) and Europe’s second largest corporation. This report examines BP’s interface with Brussels, analysing what the company might achieve through European Union (EU) support and h&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://carbusters.org/"&gt;Car Busters&lt;/a&gt;&lt;br /&gt;
+	Always full of excellent artwork...&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://art-for-a-change.com/blog/2007/03/lacma-oil-museum.html"&gt;Resistance to BP at the Los Angeles County Museum of Art&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.turnuptheheat.org/"&gt;Turn Up The Heat - G Monbiot&lt;/a&gt;&lt;br /&gt;
+	George Monbiot's new book "Heat" exposing greenwash " My fear is not that people will stop talking about climate change. My fear is that they will talk us to Kingdom Come."&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://climatedenial.org/"&gt;George Marshall's Climate Denial&lt;/a&gt;&lt;br /&gt;
+	George Marshall (of COIN)'s new blog.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.redpepper.org.uk/"&gt;Red Pepper Magazine &lt;/a&gt;&lt;br /&gt;
+	Red Pepper Magazine - For green and radical left people.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.cartoonkate.co.uk/"&gt;'Funny Weather We're Having'&lt;/a&gt;&lt;br /&gt;
+	'Funny Weather We're Having' - Kate Evans Climate change cartoon booklet (updated comic now available from London Rising Tide); also now a book&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.socialistreview.org.uk/article.php?articlenumber=8038"&gt;Privatising Culture &lt;/a&gt;&lt;br /&gt;
+	Privatising Culture: Corporate Art Intervention Since the 1980s, Chin-tao Wu, (London and New York: Verso, 2002) - a review&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.uow.edu.au/~sharonb/bp.html"&gt;BP: Beyond Petroleum&lt;/a&gt;&lt;br /&gt;
+	Global Spin: The Corporate Assault on Environmentalism- Sharon Beder, Green Books, 1997 revised May 2002.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.uow.edu.au/~sharonb/global.html"&gt;Global spin: The Corporate Assault On Environmentalism&lt;/a&gt;&lt;br /&gt;
+	Global spin: The Corporate Assault On Environmentalism by Sharon Beder,Green Books, 1997 revised May 2002.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.redpepper.org.uk/Aug2004/x-Aug2004-greenwash.html"&gt;Greenwash or Us: an activist's diary&lt;/a&gt;&lt;br /&gt;
+	An Activist's Diary of 'Greenwash or Us', London Rising Tide's inaugural 'Exhibition of Resistance' to BP's hijacking of the arts, from Red Pepper Magazine 29th July 2004.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.aeaconsulting.com/site/platformv3i2g.html"&gt;Culture Incorporated: Museums, Artists, and Corporate Sponsorships&lt;/a&gt;&lt;br /&gt;
+	Useful books on corporate arts, Mark W. Rectanus,(Minneapolis: University of Minnesota Press, 2002&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.metamute.org/en/Fooling-the-Present-Fing-the-Future"&gt;'Fooling The Present, F**ing The Future' - London Rising Tide (Mute Magazine)&lt;/a&gt;&lt;br /&gt;
+	Climate justice direct action group London Rising Tide visits the Science Museum's new exhibition, 'Energy - Fuelling the Future', nearly drowns in corporate doublespeak, but recovers enough to chat with a passing teacher and locate the main spo nsors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="field field-node-field-tags field-entity-reference-type-taxonomy-term field-formatter-entity-reference-label field-name-field-tags field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Tags&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--archive"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://www.artnotoil.org.uk/tags/archive" hreflang="en"&gt;Archive&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="sharethis-wrapper"&gt;
+      &lt;span st_url="https://www.artnotoil.org.uk/blog/links-page-previous-site" st_title="'Links' page from previous site" class="st_facebook_large" displaytext="facebook"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/blog/links-page-previous-site" st_title="&amp;#039;Links&amp;#039; page from previous site" class="st_twitter_large" displaytext="twitter"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/blog/links-page-previous-site" st_title="&amp;#039;Links&amp;#039; page from previous site" class="st_sharethis_large" displaytext="sharethis"&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;section class="field field-node--comment-node-blog-entry field-formatter-comment-default field-name-comment-node-blog-entry field-type-comment field-label-hidden display-mode-threaded comment-bundle-comment-node-blog-entry comment-wrapper"&gt;
+  &lt;a name="comments" id="comments"&gt;&lt;/a&gt;&lt;div class="comment-form-wrapper"&gt;
+      &lt;h2 class="comment-form__title h3"&gt;Add new comment&lt;/h2&gt;&lt;drupal-render-placeholder callback="comment.lazy_builders:renderForm" arguments="0=node&amp;1=3655&amp;2=comment_node_blog_entry&amp;3=comment_node_blog_entry" token="dPaWDvTqI6cg3PQLf_dJCcmuZEg8PfZkh0jJsEh11jY"&gt;&lt;/drupal-render-placeholder&gt;&lt;/div&gt;&lt;/section&gt;
+</description>
+  <pubDate>Sun, 03 Nov 2013 13:58:29 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">3655 at https://www.artnotoil.org.uk</guid>
+    </item>
+<item>
+  <title>Pollution' - Morgan Zigler</title>
+  <link>https://www.artnotoil.org.uk/artwork/album-art-not-oil-2009/pollution-morgan-zigler</link>
+  <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Pollution' - Morgan Zigler&lt;/span&gt;
+&lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://www.artnotoil.org.uk/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Art Not Oil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Sat, 26/10/2013 - 4:22am&lt;/span&gt;
+&lt;div class="sharethis-wrapper"&gt;
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2009/pollution-morgan-zigler" st_title="Pollution' - Morgan Zigler" class="st_facebook_large" displaytext="facebook"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2009/pollution-morgan-zigler" st_title="Pollution&amp;#039; - Morgan Zigler" class="st_twitter_large" displaytext="twitter"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2009/pollution-morgan-zigler" st_title="Pollution&amp;#039; - Morgan Zigler" class="st_sharethis_large" displaytext="sharethis"&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;div class="field field-node-field-art-work-gallery field-entity-reference-type-node field-formatter-entity-reference-label field-name-field-art-work-gallery field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Album&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--art-not-oil-2009"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2009/45" hreflang="und"&gt;Art Not Oil 2009&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="clearfix text-formatted field field-node--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"&gt;&lt;div class="field__items"&gt;&lt;div class="field__item"&gt;a collage depicting the alberta tar sands spliced with future developments and impacts&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="views-element-container element-container-wrapper"&gt;&lt;div class="view view-eva view-pager view-id-pager view-display-id-entity_view_1 js-view-dom-id-b8a53fa1e75640084ca77da58a69818aa4f9501f7ee7a438880b44c73320626b"&gt;
+  
+    
+
+  
+  
+
+  
+&lt;div class="views-view-entity-pager entity-pager count-word-many"&gt;
+  &lt;ul class="entity-pager-list"&gt;
+                  &lt;li class="entity-pager-item entity-pager-item-prev"&gt;
+          &lt;span class="inactive"&gt;&lt; prev&lt;/span&gt;
+        &lt;/li&gt;
+                                  &lt;li class="entity-pager-item entity-pager-item-next"&gt;
+          &lt;a href="https://www.artnotoil.org.uk/index.php/artwork/album/liberated-tate-hugh-warwick" hreflang="und"&gt;next &gt;&lt;/a&gt;
+        &lt;/li&gt;
+                        &lt;li class="entity-pager-item entity-pager-item-count"&gt;
+          1 of &lt;span class="total"&gt;804&lt;/span&gt;
+        &lt;/li&gt;
+            &lt;/ul&gt;
+&lt;/div&gt;
+
+  
+  
+
+  
+  
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+  <pubDate>Sat, 26 Oct 2013 03:22:08 +0000</pubDate>
+    <dc:creator>Art Not Oil</dc:creator>
+    <guid isPermaLink="false">2886 at https://www.artnotoil.org.uk</guid>
+    </item>
+<item>
+  <title>We have already pushed the button'</title>
+  <link>https://www.artnotoil.org.uk/artwork/album-art-not-oil-2008/we-have-already-pushed-button</link>
+  <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;We have already pushed the button'&lt;/span&gt;
+&lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://www.artnotoil.org.uk/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Art Not Oil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Sat, 26/10/2013 - 4:21am&lt;/span&gt;
+&lt;div class="sharethis-wrapper"&gt;
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2008/we-have-already-pushed-button" st_title="We have already pushed the button'" class="st_facebook_large" displaytext="facebook"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2008/we-have-already-pushed-button" st_title="We have already pushed the button&amp;#039;" class="st_twitter_large" displaytext="twitter"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2008/we-have-already-pushed-button" st_title="We have already pushed the button&amp;#039;" class="st_sharethis_large" displaytext="sharethis"&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;div class="field field-node-field-art-work-gallery field-entity-reference-type-node field-formatter-entity-reference-label field-name-field-art-work-gallery field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Album&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--art-not-oil-2008"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2008/44" hreflang="und"&gt;Art Not Oil 2008&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="views-element-container element-container-wrapper"&gt;&lt;div class="view view-eva view-pager view-id-pager view-display-id-entity_view_1 js-view-dom-id-174eea711d4807ea41d1e895e123cb1eb786f3ea27d8a59ca860aaba19a6a96e"&gt;
+  
+    
+
+  
+  
+
+  
+&lt;div class="views-view-entity-pager entity-pager count-word-many"&gt;
+  &lt;ul class="entity-pager-list"&gt;
+                  &lt;li class="entity-pager-item entity-pager-item-prev"&gt;
+          &lt;span class="inactive"&gt;&lt; prev&lt;/span&gt;
+        &lt;/li&gt;
+                                  &lt;li class="entity-pager-item entity-pager-item-next"&gt;
+          &lt;a href="https://www.artnotoil.org.uk/index.php/artwork/album/liberated-tate-hugh-warwick" hreflang="und"&gt;next &gt;&lt;/a&gt;
+        &lt;/li&gt;
+                        &lt;li class="entity-pager-item entity-pager-item-count"&gt;
+          1 of &lt;span class="total"&gt;804&lt;/span&gt;
+        &lt;/li&gt;
+            &lt;/ul&gt;
+&lt;/div&gt;
+
+  
+  
+
+  
+  
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+  <pubDate>Sat, 26 Oct 2013 03:21:58 +0000</pubDate>
+    <dc:creator>Art Not Oil</dc:creator>
+    <guid isPermaLink="false">2806 at https://www.artnotoil.org.uk</guid>
+    </item>
+<item>
+  <title>baggage tag UK</title>
+  <link>https://www.artnotoil.org.uk/artwork/album-art-not-oil-2007/baggage-tag-uk</link>
+  <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;baggage tag UK&lt;/span&gt;
+&lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://www.artnotoil.org.uk/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Art Not Oil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Sat, 26/10/2013 - 4:21am&lt;/span&gt;
+&lt;div class="sharethis-wrapper"&gt;
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2007/baggage-tag-uk" st_title="baggage tag UK" class="st_facebook_large" displaytext="facebook"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2007/baggage-tag-uk" st_title="baggage tag UK" class="st_twitter_large" displaytext="twitter"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2007/baggage-tag-uk" st_title="baggage tag UK" class="st_sharethis_large" displaytext="sharethis"&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;div class="field field-node-field-art-work-gallery field-entity-reference-type-node field-formatter-entity-reference-label field-name-field-art-work-gallery field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Album&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--art-not-oil-2007"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2007/42" hreflang="und"&gt;Art Not Oil 2007&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="views-element-container element-container-wrapper"&gt;&lt;div class="view view-eva view-pager view-id-pager view-display-id-entity_view_1 js-view-dom-id-14772fb27d510ad610c7467f08b2c0445997536eacabd474024c3df9096779a1"&gt;
+  
+    
+
+  
+  
+
+  
+&lt;div class="views-view-entity-pager entity-pager count-word-many"&gt;
+  &lt;ul class="entity-pager-list"&gt;
+                  &lt;li class="entity-pager-item entity-pager-item-prev"&gt;
+          &lt;span class="inactive"&gt;&lt; prev&lt;/span&gt;
+        &lt;/li&gt;
+                                  &lt;li class="entity-pager-item entity-pager-item-next"&gt;
+          &lt;a href="https://www.artnotoil.org.uk/index.php/artwork/album/liberated-tate-hugh-warwick" hreflang="und"&gt;next &gt;&lt;/a&gt;
+        &lt;/li&gt;
+                        &lt;li class="entity-pager-item entity-pager-item-count"&gt;
+          1 of &lt;span class="total"&gt;804&lt;/span&gt;
+        &lt;/li&gt;
+            &lt;/ul&gt;
+&lt;/div&gt;
+
+  
+  
+
+  
+  
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+  <pubDate>Sat, 26 Oct 2013 03:21:45 +0000</pubDate>
+    <dc:creator>Art Not Oil</dc:creator>
+    <guid isPermaLink="false">2679 at https://www.artnotoil.org.uk</guid>
+    </item>
+<item>
+  <title>Roads To Nowhere - Fiona Richmond</title>
+  <link>https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/roads-nowhere-fiona-richmond</link>
+  <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Roads To Nowhere - Fiona Richmond&lt;/span&gt;
+&lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://www.artnotoil.org.uk/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Art Not Oil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Sat, 26/10/2013 - 3:21am&lt;/span&gt;
+&lt;div class="sharethis-wrapper"&gt;
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/roads-nowhere-fiona-richmond" st_title="Roads To Nowhere - Fiona Richmond" class="st_facebook_large" displaytext="facebook"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/roads-nowhere-fiona-richmond" st_title="Roads To Nowhere - Fiona Richmond" class="st_twitter_large" displaytext="twitter"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/roads-nowhere-fiona-richmond" st_title="Roads To Nowhere - Fiona Richmond" class="st_sharethis_large" displaytext="sharethis"&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;div class="field field-node-field-art-work-gallery field-entity-reference-type-node field-formatter-entity-reference-label field-name-field-art-work-gallery field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Album&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--art-not-oil-2005"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/39" hreflang="und"&gt;Art Not Oil 2005&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="views-element-container element-container-wrapper"&gt;&lt;div class="view view-eva view-pager view-id-pager view-display-id-entity_view_1 js-view-dom-id-eea535b2b77b1543a9b44f140e7c1d35a47e93f6a6ae644c6c1d5534c99cd4bb"&gt;
+  
+    
+
+  
+  
+
+  
+&lt;div class="views-view-entity-pager entity-pager count-word-many"&gt;
+  &lt;ul class="entity-pager-list"&gt;
+                  &lt;li class="entity-pager-item entity-pager-item-prev"&gt;
+          &lt;span class="inactive"&gt;&lt; prev&lt;/span&gt;
+        &lt;/li&gt;
+                                  &lt;li class="entity-pager-item entity-pager-item-next"&gt;
+          &lt;a href="https://www.artnotoil.org.uk/index.php/artwork/album/liberated-tate-hugh-warwick" hreflang="und"&gt;next &gt;&lt;/a&gt;
+        &lt;/li&gt;
+                        &lt;li class="entity-pager-item entity-pager-item-count"&gt;
+          1 of &lt;span class="total"&gt;804&lt;/span&gt;
+        &lt;/li&gt;
+            &lt;/ul&gt;
+&lt;/div&gt;
+
+  
+  
+
+  
+  
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+  <pubDate>Sat, 26 Oct 2013 02:21:33 +0000</pubDate>
+    <dc:creator>Art Not Oil</dc:creator>
+    <guid isPermaLink="false">2588 at https://www.artnotoil.org.uk</guid>
+    </item>
+<item>
+  <title>Smiles Means Sales -  F Richmond</title>
+  <link>https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/smiles-means-sales-f-richmond</link>
+  <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Smiles Means Sales -  F Richmond&lt;/span&gt;
+&lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://www.artnotoil.org.uk/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Art Not Oil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Sat, 26/10/2013 - 3:21am&lt;/span&gt;
+&lt;div class="sharethis-wrapper"&gt;
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/smiles-means-sales-f-richmond" st_title="Smiles Means Sales -  F Richmond" class="st_facebook_large" displaytext="facebook"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/smiles-means-sales-f-richmond" st_title="Smiles Means Sales -  F Richmond" class="st_twitter_large" displaytext="twitter"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/smiles-means-sales-f-richmond" st_title="Smiles Means Sales -  F Richmond" class="st_sharethis_large" displaytext="sharethis"&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;div class="field field-node-field-art-work-gallery field-entity-reference-type-node field-formatter-entity-reference-label field-name-field-art-work-gallery field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Album&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--art-not-oil-2005"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/39" hreflang="und"&gt;Art Not Oil 2005&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="views-element-container element-container-wrapper"&gt;&lt;div class="view view-eva view-pager view-id-pager view-display-id-entity_view_1 js-view-dom-id-ba7a4e9b88438d588519b2ab13c4ea6c939bc1a5202507e6f8b5695fe30aec4d"&gt;
+  
+    
+
+  
+  
+
+  
+&lt;div class="views-view-entity-pager entity-pager count-word-many"&gt;
+  &lt;ul class="entity-pager-list"&gt;
+                  &lt;li class="entity-pager-item entity-pager-item-prev"&gt;
+          &lt;span class="inactive"&gt;&lt; prev&lt;/span&gt;
+        &lt;/li&gt;
+                                  &lt;li class="entity-pager-item entity-pager-item-next"&gt;
+          &lt;a href="https://www.artnotoil.org.uk/index.php/artwork/album/liberated-tate-hugh-warwick" hreflang="und"&gt;next &gt;&lt;/a&gt;
+        &lt;/li&gt;
+                        &lt;li class="entity-pager-item entity-pager-item-count"&gt;
+          1 of &lt;span class="total"&gt;804&lt;/span&gt;
+        &lt;/li&gt;
+            &lt;/ul&gt;
+&lt;/div&gt;
+
+  
+  
+
+  
+  
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+  <pubDate>Sat, 26 Oct 2013 02:21:28 +0000</pubDate>
+    <dc:creator>Art Not Oil</dc:creator>
+    <guid isPermaLink="false">2566 at https://www.artnotoil.org.uk</guid>
+    </item>
+<item>
+  <title>Fuel Explosion -  George Osodi ( Nigeria 2004 )</title>
+  <link>https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/fuel-explosion-george-osodi-nigeria-2004</link>
+  <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Fuel Explosion -  George Osodi ( Nigeria 2004 )&lt;/span&gt;
+&lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://www.artnotoil.org.uk/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Art Not Oil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Sat, 26/10/2013 - 3:21am&lt;/span&gt;
+&lt;div class="sharethis-wrapper"&gt;
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/fuel-explosion-george-osodi-nigeria-2004" st_title="Fuel Explosion -  George Osodi ( Nigeria 2004 )" class="st_facebook_large" displaytext="facebook"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/fuel-explosion-george-osodi-nigeria-2004" st_title="Fuel Explosion -  George Osodi ( Nigeria 2004 )" class="st_twitter_large" displaytext="twitter"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/fuel-explosion-george-osodi-nigeria-2004" st_title="Fuel Explosion -  George Osodi ( Nigeria 2004 )" class="st_sharethis_large" displaytext="sharethis"&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;div class="field field-node-field-art-work-gallery field-entity-reference-type-node field-formatter-entity-reference-label field-name-field-art-work-gallery field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Album&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--art-not-oil-2005"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2005/39" hreflang="und"&gt;Art Not Oil 2005&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="views-element-container element-container-wrapper"&gt;&lt;div class="view view-eva view-pager view-id-pager view-display-id-entity_view_1 js-view-dom-id-a16e3e42caf6bccdf7c72b66d7f44ac2b4ba9080b427d1110f2ee15d084fb225"&gt;
+  
+    
+
+  
+  
+
+  
+&lt;div class="views-view-entity-pager entity-pager count-word-many"&gt;
+  &lt;ul class="entity-pager-list"&gt;
+                  &lt;li class="entity-pager-item entity-pager-item-prev"&gt;
+          &lt;span class="inactive"&gt;&lt; prev&lt;/span&gt;
+        &lt;/li&gt;
+                                  &lt;li class="entity-pager-item entity-pager-item-next"&gt;
+          &lt;a href="https://www.artnotoil.org.uk/index.php/artwork/album/liberated-tate-hugh-warwick" hreflang="und"&gt;next &gt;&lt;/a&gt;
+        &lt;/li&gt;
+                        &lt;li class="entity-pager-item entity-pager-item-count"&gt;
+          1 of &lt;span class="total"&gt;804&lt;/span&gt;
+        &lt;/li&gt;
+            &lt;/ul&gt;
+&lt;/div&gt;
+
+  
+  
+
+  
+  
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+  <pubDate>Sat, 26 Oct 2013 02:21:28 +0000</pubDate>
+    <dc:creator>Art Not Oil</dc:creator>
+    <guid isPermaLink="false">2561 at https://www.artnotoil.org.uk</guid>
+    </item>
+<item>
+  <title>Peace In Our Time - Peter Kennard</title>
+  <link>https://www.artnotoil.org.uk/artwork/album-art-not-oil-2004/peace-our-time-peter-kennard</link>
+  <description>&lt;span class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Peace In Our Time - Peter Kennard&lt;/span&gt;
+&lt;span class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://www.artnotoil.org.uk/users/art-not-oil" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Art Not Oil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;Sat, 26/10/2013 - 3:21am&lt;/span&gt;
+&lt;div class="sharethis-wrapper"&gt;
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2004/peace-our-time-peter-kennard" st_title="Peace In Our Time - Peter Kennard" class="st_facebook_large" displaytext="facebook"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2004/peace-our-time-peter-kennard" st_title="Peace In Our Time - Peter Kennard" class="st_twitter_large" displaytext="twitter"&gt;&lt;/span&gt;
+
+      &lt;span st_url="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2004/peace-our-time-peter-kennard" st_title="Peace In Our Time - Peter Kennard" class="st_sharethis_large" displaytext="sharethis"&gt;&lt;/span&gt;
+
+  &lt;/div&gt;
+&lt;div class="field field-node-field-art-work-gallery field-entity-reference-type-node field-formatter-entity-reference-label field-name-field-art-work-gallery field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Album&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--art-not-oil-2004"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://www.artnotoil.org.uk/artwork/album-art-not-oil-2004/27" hreflang="und"&gt;Art Not Oil 2004&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="views-element-container element-container-wrapper"&gt;&lt;div class="view view-eva view-pager view-id-pager view-display-id-entity_view_1 js-view-dom-id-891abd7d00d8808c8390c3c5cf37d3cfc95807c16fd7021a82640634529e64d2"&gt;
+  
+    
+
+  
+  
+
+  
+&lt;div class="views-view-entity-pager entity-pager count-word-many"&gt;
+  &lt;ul class="entity-pager-list"&gt;
+                  &lt;li class="entity-pager-item entity-pager-item-prev"&gt;
+          &lt;span class="inactive"&gt;&lt; prev&lt;/span&gt;
+        &lt;/li&gt;
+                                  &lt;li class="entity-pager-item entity-pager-item-next"&gt;
+          &lt;a href="https://www.artnotoil.org.uk/index.php/artwork/album/liberated-tate-hugh-warwick" hreflang="und"&gt;next &gt;&lt;/a&gt;
+        &lt;/li&gt;
+                        &lt;li class="entity-pager-item entity-pager-item-count"&gt;
+          1 of &lt;span class="total"&gt;804&lt;/span&gt;
+        &lt;/li&gt;
+            &lt;/ul&gt;
+&lt;/div&gt;
+
+  
+  
+
+  
+  
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+  <pubDate>Sat, 26 Oct 2013 02:21:23 +0000</pubDate>
+    <dc:creator>Art Not Oil</dc:creator>
+    <guid isPermaLink="false">2517 at https://www.artnotoil.org.uk</guid>
+    </item>
+
+  </channel>
+</rss>
